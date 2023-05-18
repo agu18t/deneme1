@@ -9,5 +9,7 @@ public class Class01 {
 
         int z =9;
         System.out.println(x+y+z);
+        //v3
+        System.out.println("v3 kodları.");
     }
 }
