@@ -11,6 +11,9 @@ public class Class01 {
         System.out.println(x+y+z);
         //v3
         System.out.println("v3 kodları.");
-        //g
+        //v4
+        System.out.println("v4");
+        //v5
+
     }
 }
